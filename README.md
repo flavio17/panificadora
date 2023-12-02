@@ -12,7 +12,7 @@ O projeto da Panificadora é uma plataforma web inovadora desenvolvida com as te
    - JavaScript
 ## 🎨 Ferramenta de Layout
 - Figma
-
+---
   Feito com ♥ by flávio17
   - Email: flavio17_canarana@hotmail.com
   - Linkedln: https://www.linkedin.com/in/flavio-macario-de-souza-81ab4956/
