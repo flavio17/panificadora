@@ -13,8 +13,11 @@ O projeto da Panificadora é uma plataforma web inovadora desenvolvida com as te
 ## 🎨 Ferramenta de Layout
 - Figma
 ---
-  Feito com ♥ by flávio17
+  
+ ## 📝 Entre em contato
   - Email: flavio17_canarana@hotmail.com
   - Linkedln: https://www.linkedin.com/in/flavio-macario-de-souza-81ab4956/
   - Github: https://github.com/flavio17 (Veja os meus projetos no Github)
   - Link do projeto: https://panificadora-theta.vercel.app/ (Veja o projeto em funcionamento)
+    ##
+    Feito com ♥ by flávio17
